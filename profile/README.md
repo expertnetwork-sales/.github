@@ -3,7 +3,7 @@
 Moraph builds and runs secure, audit-ready technology for financial services, healthcare and government. This organisation holds the tooling that writes the replies Moraph's experts send back to expert networks.
 
 - Website: [www.moraph.com](https://www.moraph.com)
-- Portfolio project: TODO(confirm) — link to the "Moraph (Expert Networks)" portfolio project once it exists
+- Project board: [Moraph · Expert Networks](https://github.com/orgs/moraph-com/projects/6) · Portfolio: [Portfolio · Moraph](https://github.com/orgs/moraph-com/projects/7)
 - Sister organisation: [expertnetwork-operations](https://github.com/expertnetwork-operations) (the expertnetworks pre-chew pipeline)
 
 ## What we build
@@ -22,4 +22,4 @@ Moraph builds and runs secure, audit-ready technology for financial services, he
 
 ## Contact
 
-Get in touch through [www.moraph.com/contact](https://www.moraph.com/contact). Please report security vulnerabilities privately through the same page, not in a public issue.
+Get in touch through [www.moraph.com/contact](https://www.moraph.com/contact). Please report security vulnerabilities privately to security@moraph.com (Moraph's published contact in [www.moraph.com/.well-known/security.txt](https://www.moraph.com/.well-known/security.txt)), not in a public issue; see our [security policy](https://github.com/expertnetwork-sales/.github/blob/main/SECURITY.md).
