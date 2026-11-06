@@ -1,0 +1,26 @@
+name: Task
+description: A specific, well-scoped piece of work (chore, refactor, ops, docs).
+title: "[Task]: "
+type: Task
+body:
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Why is this needed? Link the parent Epic and any related issues or PRs.
+    validations:
+      required: true
+  - type: textarea
+    id: work
+    attributes:
+      label: What needs to be done
+      value: |
+        - [ ] 
+        - [ ] 
+    validations:
+      required: true
+  - type: textarea
+    id: done
+    attributes:
+      label: Definition of done
+      description: How will we verify this is complete?

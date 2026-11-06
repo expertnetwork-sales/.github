@@ -1,0 +1,34 @@
+name: Feature request
+description: Propose new or changed functionality.
+title: "[Feature]: "
+type: Feature
+labels: ["needs-triage"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What problem are you trying to solve, and for whom? Why does it matter?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: What should happen? Be concrete about behavior.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      description: How will we know this is done?
+      value: |
+        - [ ] 
+        - [ ] 
+    validations:
+      required: true
