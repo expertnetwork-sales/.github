@@ -1,1 +1,8 @@
 blank_issues_enabled: true
+contact_links:
+  - name: Moraph website
+    url: https://www.moraph.com
+    about: Learn about Moraph and get in touch for anything that is not a bug, feature or task in this repository.
+  - name: Report a security vulnerability
+    url: https://www.moraph.com/contact
+    about: Please do not open a public issue for security problems. Contact Moraph privately via the website instead.
